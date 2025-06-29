@@ -1,0 +1,7 @@
+torch
+torchvision
+pandas
+Pillow
+open_clip_torch
+transformers
+scikit-learn
